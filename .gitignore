@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.pyc  
+data/ logs/ transactions/ backups/ neo4j_data/ neo4j_logs/ neo4j_import/ *.dump *.backup
+plugins/ import/
+import/*.dat
+.DS_Store
+
